@@ -15,5 +15,5 @@ while c0 != 1:
         print(c0)
         if c0 != 1:
             continue
-print("Pasos = ", pasos)
+print("Pasos = ", steps)
         
